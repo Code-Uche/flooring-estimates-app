@@ -1,0 +1,40 @@
+{
+  "297c9bf1-e009-4d5e-ab30-0d4471076ebe": {
+    "connectionRef": {
+      "displayName": "OneDrive for Business",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1656/1.0.1656.3432/onedriveforbusiness/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_onedriveforbusiness"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "a67f2eda-d1f1-40ff-8e21-22c326ee1a6a"
+    ],
+    "id": "297c9bf1-e009-4d5e-ab30-0d4471076ebe"
+  },
+  "a67f2eda-d1f1-40ff-8e21-22c326ee1a6a": {
+    "connectionRef": {
+      "displayName": "Excel",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1667/1.0.1667.3504/excel/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_excel"
+    },
+    "datasets": {
+      "b!ZsY-yEa4J0ikO_Bh8cKnlXo0SK4VcJRChOpvXdwsvbhLRUgTB9cnRJvZNPNa6Wvh.01NTTNO55FEDH43E5IJBGJ2MPGWDJSPMOJ": {
+        "dataSources": {
+          "FlooringEstimates": {
+            "tableName": "FlooringEstimates"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "FlooringEstimates"
+    ],
+    "dependencies": {
+      "fileSource": "297c9bf1-e009-4d5e-ab30-0d4471076ebe"
+    },
+    "dependents": [],
+    "id": "a67f2eda-d1f1-40ff-8e21-22c326ee1a6a"
+  }
+}
