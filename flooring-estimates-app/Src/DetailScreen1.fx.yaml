@@ -159,7 +159,7 @@
             Required: =false
             Width: =640
             X: =0
-            Y: =2
+            Y: =4
             ZIndex: =1
 
             DataCardKey2 As label:
@@ -214,7 +214,7 @@
             Required: =false
             Width: =640
             X: =0
-            Y: =3
+            Y: =0
             ZIndex: =1
 
             DataCardKey3 As label:
@@ -271,7 +271,7 @@
             Required: =false
             Width: =640
             X: =0
-            Y: =4
+            Y: =2
             ZIndex: =1
 
             DataCardKey4 As label:
@@ -328,7 +328,7 @@
             Required: =false
             Width: =640
             X: =0
-            Y: =5
+            Y: =3
             ZIndex: =1
 
             DataCardKey5 As label:

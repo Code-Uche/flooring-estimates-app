@@ -285,7 +285,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%Category.ID%",
       "Name": "Category_DataCard2",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1525,7 +1525,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
       "Name": "DataCardKey9",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2400,14 +2400,6 @@
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": true,
           "AutoRuleBindingString": "",
-          "InvariantPropertyName": "MaxLength",
-          "IsLockable": true,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": true,
-          "AutoRuleBindingString": "",
           "InvariantPropertyName": "DisplayMode",
           "IsLockable": true,
           "NameMapSourceSchema": "?"
@@ -2470,7 +2462,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
       "Name": "DataCardValue8",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2481,11 +2473,6 @@
         {
           "Category": "Data",
           "PropertyName": "DelayOutput",
-          "RuleProviderType": "Unknown"
-        },
-        {
-          "Category": "Data",
-          "PropertyName": "MaxLength",
           "RuleProviderType": "Unknown"
         },
         {
@@ -4110,7 +4097,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%ErrorMessage.ID%",
       "Name": "ErrorMessage4",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5097,7 +5084,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%Image.ID%",
       "Name": "Image_DataCard2",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5682,7 +5669,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%Name.ID%",
       "Name": "Name_DataCard2",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5764,7 +5751,7 @@
       "StyleName": "defaultTypedDataCardStyle",
       "Type": "ControlInfo"
     },
-    "Overview_DataCard2": {
+    "Overview_DataCard3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -5815,14 +5802,6 @@
           "IsLockable": true,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": true,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "MaxLength",
-          "IsLockable": true,
-          "NameMapSourceSchema": "?"
-        },
         "BorderColor",
         "BorderStyle",
         "Fill",
@@ -5841,8 +5820,8 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%Overview.ID%",
-      "Name": "Overview_DataCard2",
-      "ParentIndex": 3,
+      "Name": "Overview_DataCard3",
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5868,11 +5847,6 @@
         {
           "Category": "Data",
           "PropertyName": "Update",
-          "RuleProviderType": "Unknown"
-        },
-        {
-          "Category": "Data",
-          "PropertyName": "MaxLength",
           "RuleProviderType": "Unknown"
         },
         {
@@ -7082,7 +7056,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
       "Name": "StarVisible4",
-      "ParentIndex": 0,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

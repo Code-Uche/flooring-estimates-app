@@ -194,19 +194,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "EditScreen1.EditForm1.Overview_DataCard2.DataCardValue8.AccessibleLabel"
+                  "fullyQualifiedName": "EditScreen1.EditForm1.Overview_DataCard3.DataCardValue8.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "EditScreen1.EditForm1.Overview_DataCard2.DataCardValue8.AccessibleLabel",
+                  "fullyQualifiedName": "EditScreen1.EditForm1.Overview_DataCard3.DataCardValue8.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "EditScreen1",
-                "type": "EditScreen1.EditForm1.Overview_DataCard2.DataCardValue8"
+                "type": "EditScreen1.EditForm1.Overview_DataCard3.DataCardValue8"
               }
             }
           ],
