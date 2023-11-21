@@ -93,7 +93,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -112,7 +112,7 @@
     "Id": "582d5ed8-f6f2-4f1a-8aca-38b9798f3a48",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Flooring Materials App",
     "OriginatingVersion": "1.335",
     "ParserErrorCount": 0,
